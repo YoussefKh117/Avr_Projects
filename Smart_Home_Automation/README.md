@@ -1,6 +1,6 @@
 # Smart Home Automation Using ATmega32
 
-![Screenshot 2024-10-05 213744](https://github.com/user-attachments/assets/2a9a611c-8cc6-407f-adec-56ebe2e0f57a)
+![image](https://github.com/user-attachments/assets/f88ed5c9-ba3e-4650-a99c-120649843a0e)
 
 ## Project Overview
 
