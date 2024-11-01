@@ -1,6 +1,6 @@
 # Advanced Door Locker Security System
 
-![Screenshot 2024-11-01 153403](https://github.com/user-attachments/assets/00af36bd-7907-4ddc-9a35-18cc7a630f51)
+![Screenshot 2024-11-01 153948](https://github.com/user-attachments/assets/19f6b37d-3d03-4747-8d7e-33bad01be968)
 
 ## Project Overview
 
@@ -68,7 +68,7 @@ This project involves designing and implementing an Advanced Door Locker Securit
 
 ## Example
 
-![Screenshot 2024-11-01 153948](https://github.com/user-attachments/assets/19f6b37d-3d03-4747-8d7e-33bad01be968)
+![Screenshot 2024-11-01 153917](https://github.com/user-attachments/assets/3869ec8f-e879-4d32-ae1f-0931a2909fa1)
 
 ## Key Learnings
 
